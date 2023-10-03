@@ -1,0 +1,200 @@
+# Blender 3.6.2 MTL File: 'Rocky.blend'
+# www.blender.org
+
+newmtl Rocky_Rig_MAT_Rocky_Backpack
+Ns 159.999985
+Ka 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Rocky_Backpack_BC.png
+map_refl T_Rocky_Backpack_M.png
+
+newmtl Rocky_Rig_MAT_Rocky_BackpackArm_Orange
+Ns 360.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Rocky_StripesInverted_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_BackpackArm_Yellow
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd T_Rocky_Colar_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_Backpack_MetalDark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Rocky_Dark_Metal_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_Backpack_MetalLight
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Rocky_Metal_BC.png
+map_refl T_Rocky_Metal_M.png
+
+newmtl Rocky_Rig_MAT_Rocky_Badge
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Rocky_Badge_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_BadgeMetal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd T_Rocky_BadgeTeamMetal_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_Body
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_BodyFur_BC.png
+map_Bump -bm 0.140017 T_Rocky_BodyFur_N - Mod.png
+
+newmtl Rocky_Rig_MAT_Rocky_Brow
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.164706 0.141176 0.129412
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Rocky_Rig_MAT_Rocky_Collar
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Colar_BC.png
+map_refl T_Rocky_Colar_GL.png
+
+newmtl Rocky_Rig_MAT_Rocky_CollarClip
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd T_Rocky_BadgeTeamMetal_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_Eyes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Eye_BC.png
+
+newmtl Rocky_Rig_MAT_Rocky_Hat
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Hat_BC.png
+map_Bump -bm 0.140017 T_Rocky_Hat_N - Mod.png
+
+newmtl Rocky_Rig_MAT_Rocky_Head
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_HeadFur_BC.png
+map_Bump -bm 0.140017 T_Rocky_HeadFur_N - Mod.png
+
+newmtl Rocky_Rig_MAT_Rocky_Tongue
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Tongue_BC.png
+map_Ks T_Rocky_Tongue_GL.png
+
+newmtl Rocky_Rig_MAT_Rocky_Vest
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.140017 T_Rocky_Vest_N - Mod.png
+
+newmtl Rocky_Rig_MAT_Rocky_Vest_Belt
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Vest_Belt - Mod.png
+
+newmtl Rocky_Rig_MAT_Rocky_Vest_Zipper
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd T_Rocky_Metal_BC.png
+map_Bump -bm 0.440017 T_Rocky_Zipper_N.png
+
+newmtl Rocky_Rig_MAT_Rocky_teeth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_Rocky_Teeth_BC.png
+map_Ks T_Rocky_Teeth_GL.png
